@@ -1,0 +1,11 @@
+﻿
+{
+                "EmployeeFname" = "Elliot",
+                "EmployeeLname" = "Brown-Ford",
+                "EmployeePNumber" = 123 456 7890,
+                "EmployeePos" = "Cashier",
+                "EmployeeNum" = "R09876523",
+                "Hired_date" = 05/01/2022,
+                "EmployeeTypeOfHours" = "Part-Time",
+                "EmployeeSalary" = 15.00
+}
